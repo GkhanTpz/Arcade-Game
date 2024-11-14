@@ -1,5 +1,3 @@
----
-
 # Arcade Slot Machine Game 🎰
 
 This is a simple arcade-style slot machine game built in Python. Players spin the machine and try to match symbols to win tickets!
